@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyApplicationCartoTPISIC</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="map_view_type_normal">Vue normale</string>
+    <string name="map_view_type_hybrid">Vue hybride</string>
+    <string name="map_view_type_satellite">Vue satellite</string>
+    <string name="marker_added">Marqueur ajouté sur la carte</string>
+    <string name="save_infos">Sauvegarder</string>
+    <string name="end_display_activity">Retour</string>
+</resources>
